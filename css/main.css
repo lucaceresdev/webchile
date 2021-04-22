@@ -18,15 +18,18 @@ p {
     background-color: rgb(226, 224, 240);
 }
 
-.reports{
-    margin: 50px 100px 50px 700px;
-}
-
 .masca-ls{
     margin: 250px;
     color: rgb(75, 75, 189);
     font-family: 'Roboto', sans-serif;
-    font-weight: bold;
     text-align: center;
     text-decoration: underline;
+}
+
+.hoy{
+    text-align: center;
+}
+.info{
+    text-align: center;
+    margin: 100px;
 }
