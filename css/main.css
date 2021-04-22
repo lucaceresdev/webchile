@@ -5,3 +5,7 @@
 body{
     background-color: rgb(250, 248, 245);
 }
+
+p{
+    font-size: medium;
+}
